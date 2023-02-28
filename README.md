@@ -1,5 +1,5 @@
 # DataAnalysisProjects
 Data Analysis Projects is based on [codebasics](https://github.com/codebasics/DataAnalysisProjects)
-- [Sales Insights](https://app.powerbi.com/links/ppJIODKXzZ?ctid=9fa4f438-b1e6-473b-803f-86f8aedf0dec&pbi_source=linkShare) (Power BI | SQL)
-  - Designed a Power BI dashboard to understand AtliQ hardare goods sales trends
+- Sales Insights ([Power BI](https://app.powerbi.com/links/ppJIODKXzZ?ctid=9fa4f438-b1e6-473b-803f-86f8aedf0dec&pbi_source=linkShare) | SQL | [Tableau](https://public.tableau.com/views/Sales_Insight_16775650381330/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link))
+  - Designed a Power BI and Tableau dashboard to understand AtliQ hardare goods sales trends
   - This effective dashboard can help customer to understand the data as well as trends to make informed decision for next transactions
