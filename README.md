@@ -5,4 +5,4 @@
   - This effective dashboard can help customer to understand the data as well as trends to make informed decision for next transactions.
 - Olympics Medals (Python | [Tableau](https://public.tableau.com/views/SummerOlympicsMedal/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link))
   - Extracted the Olympic medal history from Olympedia using BeautifulSoup and Pandas
-  - Designed Tableau dashboard to visualize and show Olympics Medal History.
+  - Designed Tableau dashboard to visualize Olympics Medal History.
