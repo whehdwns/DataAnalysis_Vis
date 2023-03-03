@@ -1,11 +1,11 @@
 # DataAnalysisProjects
 - Sales Insights ([Power BI](https://app.powerbi.com/links/ppJIODKXzZ?ctid=9fa4f438-b1e6-473b-803f-86f8aedf0dec&pbi_source=linkShare) | SQL | [Tableau](https://public.tableau.com/views/Sales_Insight_16775650381330/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link))
   - This project is based on [codebasics](https://github.com/codebasics/DataAnalysisProjects)
-  - Designed a Power BI and Tableau dashboard to understand AtliQ hardare goods sales trends
+  - Designed Power BI and Tableau dashboard to understand AtliQ hardare goods sales trends
   - This effective dashboard can help customer to understand the data as well as trends to make informed decision for next transactions.
-- HR Analytics ([Power BI](https://app.powerbi.com/links/IYlC4U46C8?ctid=9fa4f438-b1e6-473b-803f-86f8aedf0dec&pbi_source=linkShare) | Excel)
+- HR Analytics ([Power BI](https://app.powerbi.com/links/IYlC4U46C8?ctid=9fa4f438-b1e6-473b-803f-86f8aedf0dec&pbi_source=linkShare) | Excel | [Tableau](https://public.tableau.com/views/Presence_Insight/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link))
   - This project is based on [codebasics](https://github.com/codebasics/DataAnalysisProjects)
-  - Designed a Power BI dashboard to track employee work hours, attendence performance, and other conditions such as work from home and sick leaves
+  - Designed Power BI and Tableau dashboard to track employee work hours, attendence performance, and other conditions such as work from home and sick leaves
   - Reduced HR process and increased the efficiency.
 - Finance Dashboards ([Power BI](https://app.powerbi.com/links/e_Ws3nTHE9?ctid=9fa4f438-b1e6-473b-803f-86f8aedf0dec&pbi_source=linkShare) | Excel)
   - This project is based on [codebasics](https://github.com/codebasics/DataAnalysisProjects)
