@@ -14,3 +14,15 @@
 - Summer Olympics (Python | [Tableau](https://public.tableau.com/views/SummerOlympicsMedal/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link))
   - Extracted the Olympic medal history from Olympedia using BeautifulSoup and Pandas
   - Designed Tableau dashboard to visualize Olympics Medal History from 1896 to 2020.
+- CNN LSA NLP (Python)
+  - Scraped articles using BeautifulSoup from CNN and analyze the articles
+  - Scraped the links and titles of the CNN articles: US, Crime Justice, Energy Environment, and Space Science
+  - Based on the links, scraped the content of the articles.
+  - Using Latent Semantic Analysis (LSA), summarized the articles contents
+  - Analyzed contents: Sentiment analysis, Subjectivity analysis, WordCloud, Topic Modeling, Entity recognition.
+- Indeed EDA (Python)
+  - Scraped data analyst jobs using Selenium from Indeed and analyze the jobs descriptions.
+  - Scraped the job_title, company name, and job_link from Indeed.
+  - Based on the links, scrape the content of the jobs.
+  - Analyzed contents
+
